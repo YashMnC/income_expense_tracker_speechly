@@ -1,3 +1,13 @@
+# Income Expense Tracker
+
+###  App can be used to track income and expenses.
+###  The different sources of income and expenses are displayed using colored charts.
+###  The income and expenses can be added using Speechly Voice AI.
+###  The type of transaction, amount and date is also displayed separately.
+###  All the data is stored using local storage.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
